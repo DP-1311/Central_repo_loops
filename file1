@@ -2,3 +2,4 @@ do {
 			System.out.println(i);
 			i++;
 		}while(i<=n);
+		system.out.println("This is do while loop");
